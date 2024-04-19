@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Main\\GameService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:source\\Main\\GameService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Player\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:source\\Player\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Global\\ServiceLocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:source\\Global\\ServiceLocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Player\\PlayerModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:source\\Player\\PlayerModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Sound\\SoundService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:header\\Sound\\SoundService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Powerup\\IPowerup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:header\\Powerup\\IPowerup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Player\\PlayerModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:header\\Player\\PlayerModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Player\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3664CD-9870-4359-8811-B481DB3B55A0}|Space-Invaders.vcxproj|solutionrelative:header\\Player\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Main\\GameService.cpp",
+              "RelativeDocumentMoniker": "source\\Main\\GameService.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Main\\GameService.cpp",
+              "RelativeToolTip": "source\\Main\\GameService.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T22:40:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceLocator.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Global\\ServiceLocator.cpp",
+              "RelativeDocumentMoniker": "source\\Global\\ServiceLocator.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Global\\ServiceLocator.cpp",
+              "RelativeToolTip": "source\\Global\\ServiceLocator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T22:40:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerModel.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Player\\PlayerModel.cpp",
+              "RelativeDocumentMoniker": "source\\Player\\PlayerModel.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Player\\PlayerModel.cpp",
+              "RelativeToolTip": "source\\Player\\PlayerModel.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T22:39:59.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoundService.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Sound\\SoundService.h",
+              "RelativeDocumentMoniker": "header\\Sound\\SoundService.h",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Sound\\SoundService.h",
+              "RelativeToolTip": "header\\Sound\\SoundService.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T22:38:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPowerup.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Powerup\\IPowerup.h",
+              "RelativeDocumentMoniker": "header\\Powerup\\IPowerup.h",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Powerup\\IPowerup.h",
+              "RelativeToolTip": "header\\Powerup\\IPowerup.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T22:38:44.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerModel.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Player\\PlayerModel.h",
+              "RelativeDocumentMoniker": "header\\Player\\PlayerModel.h",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Player\\PlayerModel.h",
+              "RelativeToolTip": "header\\Player\\PlayerModel.h",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T22:38:36.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Player\\PlayerController.h",
+              "RelativeDocumentMoniker": "header\\Player\\PlayerController.h",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\header\\Player\\PlayerController.h",
+              "RelativeToolTip": "header\\Player\\PlayerController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T22:37:15.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Player\\PlayerController.cpp",
+              "RelativeDocumentMoniker": "source\\Player\\PlayerController.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\SME-Assignment-outscal-master\\SME-Assignment-outscal-master\\Space-Invaders\\source\\Player\\PlayerController.cpp",
+              "RelativeToolTip": "source\\Player\\PlayerController.cpp",
+              "ViewState": "AQIAABQBAAAAAAAAAAAAACQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T22:35:29.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
