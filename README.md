@@ -135,7 +135,14 @@ I used coroutines to instatiate bullets/lasers
 ####################################################################################
 
 PART 4:
+
 I love to show off and would definately love to blow your socks off...lol
 but I am still working on this part :)
+
+Meanwhile I would love to know if you checked my other gameDev projects:
+
+https://github.com/rnv10/Pixel-Maze
+
+https://github.com/rnv10/The-Ski-Game
 
 
