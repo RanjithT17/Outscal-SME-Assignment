@@ -5,7 +5,7 @@ PART 1 :
 - Firstly, I was supposed to fork and clone the repository to my local device.
 - Please refer: https://github.com/rnv10/SME-Assignment
 Then the next step was to add the SFML 2.6.1 files to my project following the setup guide.
-###########################################################################################
+####################################################################################
 PART 2 :
 - Executed in approx **4** minutes.
 - I had to find a deliberate bug in the code, that was preventing the game to run. 
@@ -13,7 +13,7 @@ PART 2 :
 -To solve the bug we just had to define the two class **"class PlayerModel; " and "class PlayerView;"**
 -I used forward declaration to solve this part
 -This was done because the file was accesssing these two classes without definiing them in the file.
-###########################################################################################
+####################################################################################
 PART 3:
 - Executed in approx 1 hour.
 - spent approximately 2hour to try to build the game from scratch using Unity.
@@ -128,7 +128,7 @@ public class Shooter : MonoBehaviour
 }
 
 I used coroutines to instatiate bullets/lasers 
-###########################################################################################
+####################################################################################
 PART 4:
 I love to show off and would definately love to blow your socks off...lol
 but I am still working on this part :)
