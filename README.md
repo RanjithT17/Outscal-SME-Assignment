@@ -26,6 +26,8 @@ PART 3:
 
 - Further more I spent some making these scripts:
   1) Player.cs:
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -85,7 +87,9 @@ public class Player : MonoBehaviour
 
 }
 
-2) Shooter.cs
+2) Shooter.cs :
+
+   
 using System.Collections;
 using System.Collections.Generic;
 using Unity.Mathematics;
