@@ -7,6 +7,7 @@ it took me around 20mints
 - Please refer: https://github.com/RanjithT17/Outscal-SME-Assignment.git
 Then the next step was to add the SFML 2.6.1 files to my project following the setup guide.
 ####################################################################################
+
 Task 2 :
 - Executed in approx 8 minutes.
 - I had to find a deliberate bug in the code, that was preventing the game to run. 
@@ -15,6 +16,7 @@ Task 2 :
 -I used forward declaration to solve this part
 -This was done because the file was accesssing these two classes without definiing them in the file.
 ####################################################################################
+
 Task 3:
 - Executed in nearly 1 hour.
 - spent approximately 2hour to try to build the game from scratch using Unity.
