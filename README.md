@@ -1,7 +1,7 @@
 # SME-Assignment-Outscal (Space-Invaders)
 
 Task 1 :
--I successfully setup the Visual Studio Community 2022 and SFML Headers and library as instructed in the manual. copies the header and lib folders from SFML zip and paste it in sfml folder. Then I ran the .sln file in the visual studio and as instructed it gave me 2 delibrate errors.
+I successfully setup the Visual Studio Community 2022 and SFML Headers and library as instructed in the manual. copies the header and lib folders from SFML zip and paste it in sfml folder. Then I ran the .sln file in the visual studio and as instructed it gave me 2 delibrate errors.
 it took me around 20mints
 - Firstly, I was supposed to fork and clone the repository to my local device.
 - Please refer: https://github.com/RanjithT17/Outscal-SME-Assignment.git
