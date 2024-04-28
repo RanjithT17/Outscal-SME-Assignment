@@ -1,21 +1,22 @@
 # SME-Assignment-Outscal (Space-Invaders)
 
-PART 1 :
-- Executed in **8** minutes.
+Task 1 :
+-I successfully setup the Visual Studio Community 2022 and SFML Headers and library as instructed in the manual. copies the header and lib folders from SFML zip and paste it in sfml folder. Then I ran the .sln file in the visual studio and as instructed it gave me 2 delibrate errors.
+it took me around 20mints
 - Firstly, I was supposed to fork and clone the repository to my local device.
 - Please refer: https://github.com/RanjithT17/Outscal-SME-Assignment.git
 Then the next step was to add the SFML 2.6.1 files to my project following the setup guide.
 ####################################################################################
-PART 2 :
-- Executed in approx **4** minutes.
+Task 2 :
+- Executed in approx 8 minutes.
 - I had to find a deliberate bug in the code, that was preventing the game to run. 
 - The bug was in space invasion -> header -> Player -> PlayerController.h
 -To solve the bug we just had to define the two class **"class PlayerModel; " and "class PlayerView;"**
 -I used forward declaration to solve this part
 -This was done because the file was accesssing these two classes without definiing them in the file.
 ####################################################################################
-PART 3:
-- Executed in approx 1 hour.
+Task 3:
+- Executed in nearly 1 hour.
 - spent approximately 2hour to try to build the game from scratch using Unity.
 - I added the processBuletfire() function to the PLayerController.cpp
 - The Event Left mouse Click demands a bullet fire.
@@ -134,9 +135,8 @@ public class Shooter : MonoBehaviour
 I used coroutines to instatiate bullets/lasers 
 ####################################################################################
 
-PART 4:
+Task 4:
 
-I love to show off and would definately love to blow your socks off...lol
-but I am still working on this part :
-
+I was so challenging and interesting Task and  I am still working on this part to make it better in future :
+Thank you....
 
