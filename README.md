@@ -9,7 +9,7 @@ Then the next step was to add the SFML 2.6.1 files to my project following the s
 ####################################################################################
 
 Task 2 :
-- Executed in approx 8 minutes.
+- Executed in approx 40 minutes.
 - I had to find a deliberate bug in the code, that was preventing the game to run. 
 - The bug was in space invasion -> header -> Player -> PlayerController.h
 -To solve the bug we just had to define the two class **"class PlayerModel; " and "class PlayerView;"**
